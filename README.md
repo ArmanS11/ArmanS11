@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Armandeep Singh
 - 👀 I’m interested in Applied Machine Learning
-- 🌱 I’m currently learning Machine Learning and variouss other subjects
+- 🌱 I’m currently learning Machine Learning and various other subjects
 - 💞️ I’m looking to collaborate on creating a Stock Market Price Predictor and other interesting projects
 - 📫 How to reach me: Telegram -> @arman_singh11
 
